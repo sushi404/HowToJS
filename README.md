@@ -1,5 +1,6 @@
 # HowToJS
 
-「モダンJavaScriptの基本から始める React実践の教科書」
+JavaScript勉強用
 
-に乗ってたソースコードです
+「モダンJavaScriptの基本から始める React実践の教科書」
+に記載されているソースコードなど
